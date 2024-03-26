@@ -1,1 +1,1 @@
-console.log(12312321312)
+alert(123)
